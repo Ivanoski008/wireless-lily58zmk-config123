@@ -1,0 +1,2 @@
+config SHIELD_LILY58
+ def_bool $(shields-list-contains, lily58_left, lily58_right)
